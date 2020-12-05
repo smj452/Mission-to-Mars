@@ -32,7 +32,7 @@ Scraped information about planet Mars from the below websites:
 
 
 
-### Mobile Reponsive Website View
+### Mobile Responsive Website View
 
 ![Mobile Responsive Website.png](https://github.com/smj452/Mission-to-Mars/blob/main/Resources/Mobile%20Responsive%20Website.png)
 
