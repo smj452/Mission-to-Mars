@@ -31,6 +31,7 @@ Scraped information about planet Mars from the Below websites:
 ![Mars Hemispheres.png](https://github.com/smj452/Mission-to-Mars/blob/main/Resources/Mars%20Hemispheres.png)
 
 
+
 ### Mobile Reponsive Website View
 
 ![Mobile Responsive Website.png](https://github.com/smj452/Mission-to-Mars/blob/main/Resources/Mobile%20Responsive%20Website.png)
