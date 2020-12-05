@@ -12,7 +12,7 @@ The purpose of this project is to extract data from pull data from multiple webs
 
 ## Summary
 
-Scraped information about planet Mars from the Below websites:
+Scraped information about planet Mars from the below websites:
 
 1. ```NASA Mars News``` for latest news and headlines - [Link](https://mars.nasa.gov/news/)
 
@@ -22,7 +22,7 @@ Scraped information about planet Mars from the Below websites:
 
 4. ```Mars Weather Website``` to gather the weather data - [Link](https://mars.nasa.gov/insight/weather/)
 
-5. ```Mars Hemispheres``` to capture the full resolution images and tiles for hemispheres - [Link](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
+5. ```Mars Hemispheres``` to capture the full resolution images and titles for hemispheres - [Link](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
 
 ## Website Results
 
