@@ -1,7 +1,7 @@
 # Web Scraping Facts and Latest News About Planet Mars
 
 ## Purpose
-The purpose of this project is to extract data from pull data from multiple websites using a Python script, store the data in MongoDB, then present the collected data in a central location i.e a webpage using Flask that allows creating a web application using Python and then customize it with HTML and CSS.
+The purpose of this project is to extract data from multiple websites using a Python script, store the data in MongoDB, then present the collected data in a central location i.e a webpage using Flask that allows creating a web application using Python and then customize it with HTML and CSS.
 
 ## Techologies
 - ```Jupyter Notebook```
